@@ -24,9 +24,9 @@ I analyzed the interface, user flows, and functionality — including multilingu
 ## 🧾 Included Files
 
 - `QA.docx` — main document containing the checklist, test case, and bug list (in Ukrainian and English)  
-- `ТестКейс_ТестовеЗавдання.png` — test case screenshot  
-- `Джира_тестовеЗавдання1.png` — first Jira bug report screenshot  
-- `Джира_тестовеЗавдання2.png` — second Jira bug report screenshot  
+- `TestCase_PavukV.png` — test case screenshot  
+- `Jira_TestTask1_PavukV.png` — first Jira bug report screenshot  
+- `Jira_TestTask2_PavukV.png` — second Jira bug report screenshot  
 
 ---
 
@@ -59,13 +59,13 @@ The checklist covers:
 ## 📷 Screenshots
 
 ### Test Case
-![Test Case Screenshot](ТестКейс_ТестовеЗавдання.png)
+![Test Case Screenshot](TestCase_PavukV.png)
 
 ### Bug Reports (Part 1)
-![Bug Report 1](Джира_тестовеЗавдання1.png)
+![Bug Report 1](Jira_TestTask1_PavukV.png)
 
 ### Bug Reports (Part 2)
-![Bug Report 2](Джира_тестовеЗавдання2.png)
+![Bug Report 2](Jira_TestTask2_PavukV.png)
 
 ---
 
