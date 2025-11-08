@@ -59,13 +59,13 @@ The checklist covers:
 ## 📷 Screenshots
 
 ### Test Case
-![Test Case Screenshot](TestCase_PavukV.png)
+![Test Case Screenshot](QA_Practice/TestCase_PavukV.png)
 
 ### Bug Reports (Part 1)
-![Bug Report 1](Jira_TestTask1_PavukV.png)
+![Bug Report 1](QA_Practice/Jira_TestTask1_PavukV.png)
 
 ### Bug Reports (Part 2)
-![Bug Report 2](Jira_TestTask2_PavukV.png)
+![Bug Report 2](QA_Practice/Jira_TestTask2_PavukV.png)
 
 ---
 
